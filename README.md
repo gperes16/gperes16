@@ -29,8 +29,8 @@ Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Program
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gperes16&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
-    <img src="https://streak-stats.demolab.com?user=gperes16&theme=default&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Gustavo Peres" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gperes16&hide_border=true&locale=pt_BR&background=0d1117&stroke=30363d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com?user=gperes16&hide_border=true&locale=pt_BR&background=ffffff&stroke=d0d7de&ring=8957e5&fire=8957e5&currStreakLabel=8957e5&currStreakNum=1f2328&sideNums=1f2328&sideLabels=1f2328&dates=59636e" alt="Sequência de contribuições de Gustavo Peres" />
   </picture>
 </p>
 
