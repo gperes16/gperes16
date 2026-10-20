@@ -5,7 +5,7 @@
 Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Programador de Logística na Transpedrosa, onde desenvolvo sistemas internos, analiso dados da operação e automatizo processos que antes eram manuais. Estou cursando Tecnólogo em Ciência de Dados na Universidade de Uberaba e, antes da programação, atuei na área financeira, experiência que hoje uso para entender o negócio por trás de cada sistema. Tenho interesse em sistemas ERP, Inteligência Artificial e automação de processos com ferramentas como o n8n.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gperes16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gperes16/)
-[![E-mail](https://img.shields.io/badge/E--mail-gustavo.pfp20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.pfp20@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-gustavo.dev20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.dev20@gmail.com)
 
 ---
 
