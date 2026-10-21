@@ -1,8 +1,8 @@
 <h1>👨‍💻 Gustavo Peres</h1>
 
-`Desenvolvedor Full Stack`
+`Programador de Logística · Estudante de Ciência de Dados`
 
-Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Programador de Logística na Transpedrosa, onde desenvolvo sistemas internos, analiso dados da operação e automatizo processos que antes eram manuais. Estou cursando Tecnólogo em Ciência de Dados na Universidade de Uberaba e, antes da programação, atuei na área financeira, experiência que hoje uso para entender o negócio por trás de cada sistema. Tenho interesse em sistemas ERP, Inteligência Artificial e automação de processos com ferramentas como o n8n.
+Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Programador de Logística na Transpedrosa, atuando na operação logística da empresa. Paralelamente, desenvolvo por conta própria soluções para processos do dia a dia que vejo que podem melhorar, como automatizar tarefas que antes eram manuais e organizar melhor os dados da operação. Estou cursando Tecnólogo em Ciência de Dados na Universidade de Uberaba e, antes da logística, atuei na área financeira, experiência que me ajuda a entender o negócio por trás de cada problema. Tenho interesse em desenvolvimento de software, sistemas ERP, Inteligência Artificial e automação de processos com ferramentas como o n8n.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gperes16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gperes16/)
 [![E-mail](https://img.shields.io/badge/E--mail-gustavo.dev20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.dev20@gmail.com)
@@ -21,8 +21,8 @@ Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Program
 |---|---|---|---|
 | **Economyze** | Gestão financeira pessoal: dashboard, contas a pagar/receber, assinaturas recorrentes e controle mensal com metas. | Next.js · TypeScript · Supabase | [🌐 Site](https://economyze.vercel.app) |
 | **Work Minas** | Site de uma empresa de EPIs e uniformes profissionais de Uberlândia, com catálogo de produtos. | Next.js · TypeScript · Tailwind | [🌐 Site](https://www.workminas.com.br) |
-| **Prevenção de Bloqueios** | Sistema corporativo da Transpedrosa que antecipa vencimentos de exames e treinamentos de motoristas, preparado para múltiplas filiais. | Next.js · Supabase · PostgreSQL | 🔒 Privado |
-| **CIOT Agregado** | Aplicação operacional para consulta e gestão de conjuntos rodoviários, com autenticação e controle de acesso. | Next.js · TypeScript · Supabase | 🔒 Privado |
+| **Prevenção de Bloqueios** | Sistema que criei por iniciativa própria para a operação da Transpedrosa: antecipa vencimentos de exames e treinamentos de motoristas, preparado para múltiplas filiais. | Next.js · Supabase · PostgreSQL | 🔒 Privado |
+| **CIOT Agregado** | Aplicação que criei por iniciativa própria para consulta e gestão de conjuntos rodoviários, com autenticação e controle de acesso. | Next.js · TypeScript · Supabase | 🔒 Privado |
 | **EarthShield25** | Projeto do NASA Space Apps 2025: lista os objetos próximos da Terra (NEOs) e simula impactos de asteroides em um mapa interativo. | JavaScript · Node.js · NASA API · Leaflet | [💻 Código](https://github.com/gperes16/earthshield25) |
 
 ### 📊 Estatísticas
