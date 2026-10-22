@@ -2,7 +2,7 @@
 
 `Programador de Logística · Estudante de Ciência de Dados`
 
-Me chamo Gustavo Peres e sou de Uberlândia/MG. Atualmente trabalho como Programador de Logística na Transpedrosa, atuando na operação logística da empresa. Paralelamente, desenvolvo por conta própria soluções para processos do dia a dia que vejo que podem melhorar, como automatizar tarefas que antes eram manuais e organizar melhor os dados da operação. Estou cursando Tecnólogo em Ciência de Dados na Universidade de Uberaba e, antes da logística, atuei na área financeira, experiência que me ajuda a entender o negócio por trás de cada problema. Tenho interesse em desenvolvimento de software, sistemas ERP, Inteligência Artificial e automação de processos com ferramentas como o n8n.
+Me chamo Gustavo e sou de Uberlândia/MG. Atualmente trabalho como Programador de Logística na Transpedrosa, atuando na operação logística da empresa. Paralelamente, desenvolvo por conta própria soluções para processos do dia a dia que vejo que podem melhorar, como automatizar tarefas que antes eram manuais e organizar melhor os dados da operação. Estou cursando Tecnólogo em Ciência de Dados na Universidade de Uberaba e, antes da logística, atuei na área financeira, experiência que me ajuda a entender o negócio por trás de cada problema. Tenho interesse em desenvolvimento de software, sistemas ERP, Inteligência Artificial e automação de processos com ferramentas como o n8n.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gperes16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gperes16/)
 [![E-mail](https://img.shields.io/badge/E--mail-gustavo.dev20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.dev20@gmail.com)
